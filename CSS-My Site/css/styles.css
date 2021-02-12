@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #E4F9F5;
+  font-family: 'Merriweather', sans-serif;
+}
+#myimg{
+  border-radius: 50%;
+  height:10%;
+  width:15%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+  position: relative;
+  left: 170px;
+  top: 40px;
+}
+
+.midcloud-img {
+  top: 190px;
+  position: absolute;
+  left: 445px;
+}
+
+.mount {
+  height: 270px;
+  width: 350px;
+  position: relative;
+  top: 70px;
+}
